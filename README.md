@@ -1,2 +1,3 @@
 # Futureskill-Example
-เนื้อหาที่ได้ทำตามในคอร์สเรียน UpSkill Python Programming โดย Futureskill
+Content that has been followed in the "UpSkill Python Programming" course by Futureskill.
+Used for only lessons and lectures.
